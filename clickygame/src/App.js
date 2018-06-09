@@ -38,7 +38,7 @@ class App extends React.Component {
         navbarMessage: "You Guessed Correctly!"
       });
       if (this.state.score >= this.state.highScore) {
-        this.setState({ highScore: this.state.score });
+        this.setState({ highScore: this.state.score + 1 });
       }
       this.setState({
         randomCards: randomizeCards(cards)
