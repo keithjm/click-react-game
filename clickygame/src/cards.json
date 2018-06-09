@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "image": "https://clicky-game.netlify.com/assets/images/beth.png"
+  },
+  {
+    "id": 2,
+    "image": "https://clicky-game.netlify.com/assets/images/birdperson.png"
+  },
+  {
+    "id": 3,
+    "image": "https://clicky-game.netlify.com/assets/images/evilmorty.png"
+  },
+  {
+    "id": 4,
+    "image": "https://clicky-game.netlify.com/assets/images/gianthead.png"
+  },
+  {
+    "id": 5,
+    "image": "https://clicky-game.netlify.com/assets/images/goldenford.png"
+  },
+  {
+    "id": 6,
+    "image": "https://clicky-game.netlify.com/assets/images/jerry.png"
+  },
+  {
+    "id": 7,
+    "image": "https://clicky-game.netlify.com/assets/images/jessica.png"
+  },
+  {
+    "id": 8,
+    "image": "https://clicky-game.netlify.com/assets/images/meeseeks.png"
+  },
+  {
+    "id": 9,
+    "image": "https://clicky-game.netlify.com/assets/images/morty.png"
+  },
+  {
+    "id": 10,
+    "image": "https://clicky-game.netlify.com/assets/images/mr.png"
+  },
+  {
+    "id": 11,
+    "image": "https://clicky-game.netlify.com/assets/images/rick.png"
+  },
+  {
+    "id": 12,
+    "image": "https://clicky-game.netlify.com/assets/images/summer.png"
+  }
+]
